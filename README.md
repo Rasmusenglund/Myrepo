@@ -1,2 +1,3 @@
 # Myrepo
 This is my repository
+Learining git and stuff...
